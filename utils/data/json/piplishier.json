@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Penguin Random House",
+    "founded": 1935,
+    "location": "New York, NY",
+    "website": "www.penguinrandomhouse.com",
+    "books": [
+      {
+        "_id": "1",
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "published": 1954
+      },
+      {
+        "_id": "2",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "published": 1997
+      },
+      {
+        "_id": "3",
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "genre": "Dystopian",
+        "published": 2008
+      }
+    ]
+  },
+  {
+    "name": "HarperCollins Publishers",
+    "founded": 1817,
+    "location": "New York, NY",
+    "website": "www.harpercollins.com",
+    "books": [
+      {
+        "_id": "4",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Literature",
+        "published": 1960
+      },
+      {
+        "_id": "5",
+        "title": "The Martian",
+        "author": "Andy Weir",
+        "genre": "Science Fiction",
+        "published": 2011
+      },
+      {
+        "_id": "6",
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "genre": "Thriller",
+        "published": 2003
+      }
+    ]
+  },
+  {
+    "name": "Simon & Schuster",
+    "founded": 1924,
+    "location": "New York, NY",
+    "website": "www.simonandschuster.com",
+    "books": [
+      {
+        "_id": "7",
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "genre": "Historical Fiction",
+        "published": 2005
+      },
+      {
+        "_id": "8",
+        "title": "The Help",
+        "author": "Kathryn Stockett",
+        "genre": "Historical Fiction",
+        "published": 2009
+      },
+      {
+        "_id": "9",
+        "title": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "genre": "Thriller",
+        "published": 2018
+      }
+    ]
+  },
+  {
+    "name": "Macmillan Publishers",
+    "founded": 1843,
+    "location": "London, UK",
+    "website": "www.macmillan.com",
+    "books": [
+      {
+        "_id": "10",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "published": 1813
+      },
+      {
+        "_id": "11",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Drama",
+        "published": 1925
+      },
+      {
+        "_id": "12",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Coming-of-age",
+        "published": 1951
+      }
+    ]
+  },
+  {
+    "name": "Scholastic Corporation",
+    "founded": 1920,
+    "location": "New York, NY",
+    "website": "www.scholastic.com",
+    "books": [
+      {
+        "_id": "13",
+        "title": "Charlotte's Web",
+        "author": "E.B. White",
+        "genre": "Children's Literature",
+        "published": 1952
+      },
+      {
+        "_id": "14",
+        "title": "The Trumpet of the Swan",
+        "author": "E.B. White",
+        "genre": "Children's Literature",
+        "published": 1970
+      },
+      {
+        "_id": "15",
+        "title": "Where the Wild Things Are",
+        "author": "Maurice Sendak",
+        "genre": "Children's Literature",
+        "published": 1963
+      }
+    ]
+  },
+  {
+    "name": "Simon & Schuster",
+    "founded": 1924,
+    "location": "New York, NY",
+    "website": "www.simonandschuster.com",
+    "books": [
+      {
+        "_id": "7",
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "genre": "Historical Fiction",
+        "published": 2005
+      },
+      {
+        "_id": "8",
+        "title": "The Help",
+        "author": "Kathryn Stockett",
+        "genre": "Historical Fiction",
+        "published": 2009
+      },
+      {
+        "_id": "9",
+        "title": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "genre": "Thriller",
+        "published": 2018
+      }
+    ]
+  },
+  {
+    "name": "Macmillan Publishers",
+    "founded": 1843,
+    "location": "London, UK",
+    "website": "www.macmillan.com",
+    "books": [
+      {
+        "_id": "10",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "published": 1813
+      },
+      {
+        "_id": "11",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Drama",
+        "published": 1925
+      },
+      {
+        "_id": "12",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Coming-of-age",
+        "published": 1951
+      }
+    ]
+  },
+  {
+    "name": "Scholastic Corporation",
+    "founded": 1920,
+    "location": "New York, NY",
+    "website": "www.scholastic.com",
+    "books": [
+      {
+        "_id": "13",
+        "title": "Charlotte's Web",
+        "author": "E.B. White",
+        "genre": "Children's Literature",
+        "published": 1952
+      },
+      {
+        "_id": "14",
+        "title": "The Trumpet of the Swan",
+        "author": "E.B. White",
+        "genre": "Children's Literature",
+        "published": 1970
+      },
+      {
+        "_id": "15",
+        "title": "Where the Wild Things Are",
+        "author": "Maurice Sendak",
+        "genre": "Children's Literature",
+        "published": 1963
+      }
+    ]
+  }
+]

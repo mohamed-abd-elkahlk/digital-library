@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Historical Fiction",
+    "description": "Books that tell stories set in the past, often based on real events."
+  },
+  {
+    "name": "Young Adult Fiction",
+    "description": "Books that are written for readers ages 12-18, often dealing with themes of coming-of-age."
+  },
+  {
+    "name": "Children's Literature",
+    "description": "Books that are written for readers ages 0-12, often dealing with themes of fantasy, adventure, and imagination."
+  },
+  {
+    "name": "Poetry",
+    "description": "Books that are collections of poems, which are pieces of writing that use rhythm, rhyme, and imagery to express emotions and ideas."
+  },
+  {
+    "name": "Drama",
+    "description": "Books that are scripts for plays, which are works of fiction that are meant to be performed on stage."
+  },
+  {
+    "name": "Non-Fiction",
+    "description": "Books that deal with real-world events and topics."
+  },
+  {
+    "name": "Biography",
+    "description": "Books that tell the stories of real people's lives."
+  },
+  {
+    "name": "Autobiography",
+    "description": "Books that tell the stories of the author's own life."
+  },
+  {
+    "name": "Memoir",
+    "description": "Books that tell the stories of personal experiences."
+  },
+  {
+    "name": "Fantasy",
+    "description": "Books that deal with imaginary worlds, often involving magic and adventure."
+  },
+  {
+    "name": "Sci-Fi",
+    "description": "Books that deal with science and technology, often involving futuristic or alien settings."
+  },
+  {
+    "name": "Romance",
+    "description": "Books that deal with love and relationships."
+  },
+  {
+    "name": "Mystery",
+    "description": "Books that deal with crime and suspense."
+  },
+  {
+    "name": "Thriller",
+    "description": "Books that deal with suspense and excitement."
+  },
+  {
+    "name": "Horror",
+    "description": "Books that deal with fear and the supernatural."
+  },
+  {
+    "name": "Non-Fiction",
+    "description": "Books that deal with real-world events and topics."
+  }
+]
